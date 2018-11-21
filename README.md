@@ -1,13 +1,13 @@
 # SOL-RA-Data-science-and-SQL-Test-
 This is a SQL and data science Test given by the startup SOL RA in Germany. 
 ## Description of the tasks : 
-###1 - Preparation
+### 1 - Preparation
 First of all. Please download the test database from here:
 https://github.com/datacharmer/test_db
 Please provide us with both the answers and the SQL code leading to the answers. For
 every question, create a new SQL file named QuestionNumber.sql (ie. 3.sql ) And also
 write all the answers to the questions into one file.
-###2 - SQL tasks
+### 2 - SQL tasks
 1. Report what is the average salary of men and women in the company, for all time?
 2. What year and month did the company hire the most people?
 3. What is the expected percentage increase in salary that an employee can expect
